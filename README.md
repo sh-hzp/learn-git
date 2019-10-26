@@ -1,1 +1,1 @@
-print('I love yadan!')
+print('I love yadan for every!')
